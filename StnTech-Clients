@@ -1,19 +1,19 @@
 [
   {
-    "device_id": "07FA23D3540A8706",
+    "device_id": "4DBB25A676838349",
     "key": "MERCISTNTECH",
-    "expirydate": "09-11-2026",
+    "expirydate": "31-12-2099",
     "Allowoffline": true
   },
   {
     "device_id": "4DBB25A676838349",
-    "key": "MECBIENN",
-    "expirydate": "10-11-2026",
+    "key": "MECBIEN",
+    "expirydate": "11-11-2026",
     "Allowoffline": true
   },
 
   {
-    "device_id": "07FA23D3540A7706",
+    "device_id": "4DBB25A676838349",
     "key": "MERCISTNTECH",
     "expirydate": "10-12-2026",
     "Allowoffline": true
