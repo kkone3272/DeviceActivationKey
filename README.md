@@ -1,1 +1,14 @@
-# DeviceActivationKey
+[
+  {
+    "device_id": "07FA23D3540A8706",
+    "key": "MERCISTNTECH",
+    "expirydate": "09-11-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "07FA23D3540A8706",
+    "key": "MECBIEN",
+    "expirydate": "31-12-2026",
+    "Allowoffline": true
+  }
+]
