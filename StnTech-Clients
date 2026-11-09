@@ -10,6 +10,19 @@
     "key": "MECBIENN",
     "expirydate": "10-11-2026",
     "Allowoffline": true
+  },
+
+  {
+    "device_id": "07FA23D3540A7706",
+    "key": "MERCISTNTECH",
+    "expirydate": "10-12-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "07FA23D3540A8709",
+    "key": "KOUASSI",
+    "expirydate": "31-12-2030",
+    "Allowoffline": true
   }
 
 ]
