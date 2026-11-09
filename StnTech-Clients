@@ -6,10 +6,10 @@
     "Allowoffline": true
   },
   {
-    "device_id": "4DBB25A676838348",
+    "device_id": "4DBB25A676838349",
     "key": "MECBIEN",
     "expirydate": "10-11-2026",
-    "Allowoffline": true
+    "Allowoffline": false
   }
 
 ]
